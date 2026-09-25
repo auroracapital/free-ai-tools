@@ -1086,7 +1086,7 @@ Professional-grade content creation with generous free tiers.
 | [Suno AI](https://suno.ai) | Music | 50 credits/day (~10 tracks) | Complete songs with vocals and instruments |
 | [ElevenLabs](https://elevenlabs.io) | Voice | Basic Free | Realistic voice cloning |
 | [Canva AI](https://canva.com) | Design | Robust free tier | AI design assets, brochures, short videos |
-| [UpRes](https://upres.ai) | Image & Video Upscale | Free tier (up to 4K) | AI image/video upscaling to 8K across 14 models, developer REST API, batch mode, MCP server |
+| [UpRes](https://upres.ai) | Image & Video Upscale | Free tier (up to 4K) | AI image/video upscaling to 8K across 14 public aliases, developer REST API, batch mode, MCP server |
 
 ---
 
